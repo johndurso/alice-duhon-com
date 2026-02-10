@@ -1,11 +1,11 @@
 const performingDates = [    
   {  
-    date: "1/29/2026",    
-    show: "Byway Brewing Comedy Series",    
-    venue: "Byway Brewing",    
-    city: "Hammond, IN",    
-    time: "6:30pm",    
-    link: "https://www.bywaybrewing.beer/events/byway-comedy-series-2",    
+    date: "2/19/2026",    
+    show: "Bob Keen",    
+    venue: "Comedy Cabin",    
+    city: "Janesville, WI",    
+    time: "7:00pm",    
+    link: "https://www.cabinlaughs.com/shows/348403",    
     ticketAvailability: "available"  
   },  
   {  
@@ -15,6 +15,15 @@ const performingDates = [
     city: "Hanover, PA",    
     time: "9:00pm",    
     link: "https://www.churchofsatirecomedyclub.com/event-info/church-of-satire-presents-john-fugelsang-2",    
+    ticketAvailability: "available"  
+  },
+  {  
+    date: "2/22/2026",    
+    show: "Take A Shot Open Mic Comedy Finals",    
+    venue: "My Buddy's",    
+    city: "Chicago, IL",    
+    time: "9:00pm",    
+    link: "https://www.exploretock.com/mybuddys/event/private/c1509a30-1717-4cb3-8bbd-760b93af3a37",    
     ticketAvailability: "available"  
   },  
   {  
